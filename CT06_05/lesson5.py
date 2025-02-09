@@ -9,5 +9,10 @@
 #             suffix = "rd"
 
 # # print("Happy " + Age + "th Birthday " + Name + "!" + Message)
-for i in range(1,6):
+# for i in range(1,6):
+# for i in range(51,101):
+# for i in range(18,30):
+# for i in range(2,25,2):
+# for i in range(8,97,8):
+for i in range(5,1,-1):
     print(i)
