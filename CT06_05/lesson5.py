@@ -14,9 +14,6 @@
 # for i in range(18,30):
 # for i in range(2,25,2):
 # for i in range(8,97,8):
-start = input()
-
-
-
-for i in range(5,0,-1):
-    print(i)
+start = int(input("What is your starting number?"))
+end = int(input("What is your ending number?"))
+print(start,end + 1)
