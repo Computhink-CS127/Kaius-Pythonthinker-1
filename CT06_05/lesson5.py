@@ -1,4 +1,4 @@
-# # Name = input("What is your friend's name?")
+Name = input("What is your friend's name?")
 # # Age = input("How old is your friend this year?")
 # # Message = input("What is your message to your friend?")
 # # if Age last_digit == 1:
@@ -8,5 +8,4 @@
 # #         elif Age last_digit == 3:
 # #             suffix = "rd"
 
-# # # print("Happy " + Age + "th Birthday " + Name + "!" + Message)
-num
+# # # print("Happy " + Age + "th Birthday " + Name + "!" + Message
