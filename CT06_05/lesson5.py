@@ -4,6 +4,5 @@
 # if Age
 
 # print("Happy " + Age + "th Birthday " + Name + "!" + Message)
-for i in range(100):
-    print("Give me more.")
-    print("I like cakes.")
+for i in range(59):
+    print(i)
