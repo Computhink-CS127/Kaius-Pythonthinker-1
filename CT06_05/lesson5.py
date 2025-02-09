@@ -1,7 +1,7 @@
 # Name = input("What is your friend's name?")
 # Age = input("How old is your friend this year?")
 # Message = input("What is your message to your friend?")
-# if last_digit == 1:
+# if Age last_digit == 1:
 #             suffix = "st"
 #         elif last_digit == 2:
 #             suffix = "nd"
