@@ -9,13 +9,4 @@
 #             suffix = "rd"
 
 # # print("Happy " + Age + "th Birthday " + Name + "!" + Message)
-# for i in range(1,6):
-# for i in range(51,101):
-# for i in range(18,30):
-# for i in range(2,25,2):
-# for i in range(8,97,8):
-start = int(input("What is your starting number?"))
-end = int(input("What is your ending number?"))
 
-for i in range(start,end + 1):
-    print(i)
