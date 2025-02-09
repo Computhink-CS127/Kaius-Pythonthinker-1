@@ -16,4 +16,6 @@
 # for i in range(8,97,8):
 start = int(input("What is your starting number?"))
 end = int(input("What is your ending number?"))
-print(start,end + 1)
+
+for i in range(start,end + 1):
+    print(i)
