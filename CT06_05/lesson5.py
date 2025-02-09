@@ -5,7 +5,7 @@
 #             suffix = "st"
 #         elif Age last_digit == 2:
 #             suffix = "nd"
-#         elif last_digit == 3:
+#         elif Age last_digit == 3:
 #             suffix = "rd"
 
 # # print("Happy " + Age + "th Birthday " + Name + "!" + Message)
