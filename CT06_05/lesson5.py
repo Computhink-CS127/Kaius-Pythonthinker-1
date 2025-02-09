@@ -3,7 +3,7 @@
 # Message = input("What is your message to your friend?")
 # if Age last_digit == 1:
 #             suffix = "st"
-#         elif last_digit == 2:
+#         elif Age last_digit == 2:
 #             suffix = "nd"
 #         elif last_digit == 3:
 #             suffix = "rd"
