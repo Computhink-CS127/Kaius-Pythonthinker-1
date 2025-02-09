@@ -6,4 +6,4 @@
 # print("Happy " + Age + "th Birthday " + Name + "!" + Message)
 for i in range(100):
     print("Give me more.")
-    print
+    print("I l")
