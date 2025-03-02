@@ -15,3 +15,6 @@ import random
 
 
 print(random.randint(1,6))
+
+for i in range(19):
+    print()
