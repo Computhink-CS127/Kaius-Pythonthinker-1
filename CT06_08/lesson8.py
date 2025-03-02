@@ -14,4 +14,4 @@
 
 import random
 
-random.randint()
+random.randint(1,6)
