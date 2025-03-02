@@ -21,4 +21,5 @@
 
 import random
 
-input("What is " + random.randint )
+input("What is " + print(random.randint(1,50))) + print(random.randint(1,50))
+      
