@@ -21,4 +21,4 @@
 
 import random
 
-input( )
+input("What is " )
