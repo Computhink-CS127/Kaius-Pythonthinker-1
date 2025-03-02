@@ -19,3 +19,6 @@
 # for i in range(19):
 #     print(random.randint(0,10000))
 
+import random
+
+
