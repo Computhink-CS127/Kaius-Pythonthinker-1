@@ -17,4 +17,4 @@ import random
 print(random.randint(1,6))
 
 for i in range(19):
-    print(random.randint())
+    print(random.randint(0,10000))
