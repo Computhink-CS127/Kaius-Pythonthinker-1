@@ -1,1 +1,1 @@
-start = input()
+start = input("What is the starting number?")
