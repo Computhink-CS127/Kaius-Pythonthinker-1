@@ -2,6 +2,6 @@
 start = int(input("What is the starting number?"))
 end = int(input("What is the ending number?"))
 step = int(input("What is the step?"))
-# Use '
+# Use 'For i in range' t
 for i in range(start,end,step):
     print (i)
