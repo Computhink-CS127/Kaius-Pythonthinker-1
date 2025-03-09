@@ -1,2 +1,2 @@
-a = input("How much did you spend?")
+a = input("Are you gay??")
 print("You have spent $" + a + ".")
