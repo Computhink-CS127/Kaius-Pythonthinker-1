@@ -1,3 +1,3 @@
 a = input("Are you gay?")
 if a == yes:
-    print("G")
+    print("Good that you know.")
