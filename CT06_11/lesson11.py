@@ -5,4 +5,4 @@ if px <= 5:
 elif px <= 50:
     print("Are you sure you need this ultrasonic portable golden encased toilet seat?")
 elif px <= 500:
-    print("")
+    print("Payment accepted!")
