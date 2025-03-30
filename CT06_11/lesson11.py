@@ -1,3 +1,4 @@
+
 px = int(input("What is the price of that toilet seat? $"))
 
 if px <= 5:
