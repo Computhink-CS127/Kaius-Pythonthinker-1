@@ -1,1 +1,1 @@
-P
+px = int(input(""))
