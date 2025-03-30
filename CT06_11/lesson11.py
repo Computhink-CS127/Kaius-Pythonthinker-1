@@ -35,3 +35,6 @@ if not color == "Green":
     print("Try again bro")
 else:
     print("noice.")
+
+
+burger = input()
