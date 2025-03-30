@@ -11,4 +11,4 @@
 #     print("Bro is Mr Beast")
 
 
-num = int
+num = int(input("Key in a number"))
