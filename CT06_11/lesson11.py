@@ -13,7 +13,7 @@
 
 num = int(input("Key in a number: "))
 
-if num % 3 and num % 7 == 0:
+if num % 3 == 0 and num % 7 == 0:
     print("You are a CHOSEN ONE!!!")
 else:
     print("Bro you suck at guessing numbers.")
