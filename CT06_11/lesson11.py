@@ -11,3 +11,4 @@
 #     print("Bro is Mr Beast")
 
 
+num = int
