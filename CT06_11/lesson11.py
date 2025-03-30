@@ -30,4 +30,4 @@
 
 
 
-color = input("")
+color = input("Pick a color: ")
