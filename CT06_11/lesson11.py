@@ -21,4 +21,4 @@
 
 
 
-
+age = int(input(""))
