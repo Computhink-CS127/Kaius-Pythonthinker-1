@@ -37,9 +37,11 @@
 #     print("noice.")
 
 
-burger = input("Would u want a burger Caseoh? ")
-fries = input("Want some fries? ")
-drink = input("Want a drink? ")
+# burger = input("Would u want a burger Caseoh? ")
+# fries = input("Want some fries? ")
+# drink = input("Want a drink? ")
 
-if burger == "yes" and fries == "yes" and not drink == "yes":
-    print("Won't you get thirsty?")
+# if burger == "yes" and fries == "yes" and not drink == "yes":
+#     print("Won't you get thirsty?")
+
+
