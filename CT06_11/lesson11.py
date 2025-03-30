@@ -39,4 +39,4 @@ else:
 
 burger = input("Would u want a burger Caseoh?")
 fries = input("Want some fries?")
-drink = input("Want a drink")
+drink = input("Want a drink?")
