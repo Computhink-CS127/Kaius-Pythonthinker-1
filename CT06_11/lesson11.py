@@ -37,4 +37,4 @@ else:
     print("noice.")
 
 
-burger = input("Would u ")
+burger = input("Would u want a burger Caesoh")
