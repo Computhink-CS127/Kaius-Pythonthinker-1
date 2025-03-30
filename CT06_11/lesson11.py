@@ -13,3 +13,5 @@
 
 num = int(input("Key in a number: "))
 
+if num % 3 and num % 7 == 0:
+    
