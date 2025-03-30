@@ -46,4 +46,4 @@
 
 
 Username = input("Key in your Usename John.")
-password = input("What is ")
+password = input("What is your password John")
