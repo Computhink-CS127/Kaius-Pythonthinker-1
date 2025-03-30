@@ -43,8 +43,6 @@
 
 # if burger == "yes" and fries == "yes" and not drink == "yes":
 #     print("Won't you get thirsty?")
-
-
 Username = input("Key in your Usename John. ")
 password = input("What is your password John? ")
 if Username == "John123" and password == "pw123":
