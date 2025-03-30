@@ -1,4 +1,4 @@
-input("What do you wnt to purchase on this very fine sunny joyful perfect ")
+input("What do you wnt to purchase on this very fine sunny joyful perfect beautiful ")
 px = int(input("What is the price of that toilet seat? $"))
 
 if px <= 5:
