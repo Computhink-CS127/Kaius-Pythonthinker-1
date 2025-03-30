@@ -30,11 +30,11 @@
 
 
 
-color = input("Pick a color: ")
-if not color == "Green":
-    print("Try again bro")
-else:
-    print("noice.")
+# color = input("Pick a color: ")
+# if not color == "Green":
+#     print("Try again bro")
+# else:
+#     print("noice.")
 
 
 burger = input("Would u want a burger Caseoh? ")
