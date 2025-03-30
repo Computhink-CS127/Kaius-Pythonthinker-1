@@ -48,4 +48,4 @@
 Username = input("Key in your Usename John. ")
 password = input("What is your password John? ")
 if Username == "John123" and password == "pw123":
-    print("Access grantesd")
+    print("Access granted.")
