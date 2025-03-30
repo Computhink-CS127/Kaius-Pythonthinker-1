@@ -34,4 +34,4 @@ color = input("Pick a color: ")
 if not color == "Green":
     print("Try again bro")
 else:
-    print("noice")
+    print("noice.")
