@@ -45,4 +45,4 @@
 #     print("Won't you get thirsty?")
 
 
-Username = "Jon"
+Username = input("")
