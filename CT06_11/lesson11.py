@@ -45,5 +45,5 @@
 #     print("Won't you get thirsty?")
 
 
-Username = input("Key in your Usename John.")
-password = input("What is your password John")
+Username = input("Key in your Usename John. ")
+password = input("What is your password John? ")
