@@ -45,11 +45,11 @@
 # Visitors already present: 4
 # Max visitors allowed: 25
 #task 1a
-visitors = 0
+# visitors = 0
 
-while visitors < 50:
-    visitors = visitors + 1
-    print(visitors)
+# while visitors < 50:
+#     visitors = visitors + 1
+#     print(visitors)
 
 #task 1b
 
@@ -66,3 +66,13 @@ while visitors < 50:
 # while visitors < 25:
 #     visitors = visitors + 1
 #     print(visitors)
+
+
+# Task 2: while... break
+# A restaurant used to have a max capacity of 50. However, due to
+# the worsening of the pandemic, the government has restricted the
+# max capacity of the restaurant to 30.
+
+# Using an 'if' condition and 'break' within the 'while' loop,
+# modify your answer for Task 1a to terminate the 'while' loop when
+# number of visitors is 30.
