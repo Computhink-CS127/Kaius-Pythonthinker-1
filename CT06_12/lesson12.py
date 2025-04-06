@@ -32,6 +32,18 @@
 #     I. Increase the visitor count by 1
 #     II. Print the visitor count
 
+# (For Task 1b & 1c)
+# Modify your program to account for the number of visitors
+# already present at the venue, and the number of maximum visitors
+# allowed for the following:
+
+# **Task 1b**:
+# Visitors already present: 18
+# Max visitors allowed: 30
+
+# **Task 1c**:
+# Visitors already present: 4
+# Max visitors allowed: 25
 visitors = 0
 
 while visitors < 50:
