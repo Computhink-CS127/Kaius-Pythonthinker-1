@@ -102,4 +102,4 @@
 order = ""
 
 while True:
-    input
+    items
