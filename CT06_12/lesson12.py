@@ -44,9 +44,10 @@
 # **Task 1c**:
 # Visitors already present: 4
 # Max visitors allowed: 25
-#
+#task 1b
 visitors = 0
 
 while visitors < 50:
     visitors = visitors + 1
     print(visitors)
+
