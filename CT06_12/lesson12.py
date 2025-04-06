@@ -67,7 +67,6 @@
 #     visitors = visitors + 1
 #     print(visitors)
 
-
 # Task 2: while... break
 # A restaurant used to have a max capacity of 50. However, due to
 # the worsening of the pandemic, the government has restricted the
