@@ -131,6 +131,7 @@
 # Observe that "Happy New Year!" is no longer printed
 num = 10
 while num > 0:
-    num = num -1 
+    num = num -1
+    
 
     
