@@ -102,4 +102,4 @@
 order = ""
 
 while True:
-    items = input("What d")
+    items = input("What do you want to buy?")
