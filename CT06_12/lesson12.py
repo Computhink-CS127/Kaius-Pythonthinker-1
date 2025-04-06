@@ -100,3 +100,6 @@
 #    either at the start or end of your sentence
 
 order = ""
+
+while True:
+    input
