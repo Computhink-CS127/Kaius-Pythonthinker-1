@@ -74,5 +74,8 @@
 
 # Using an 'if' condition and 'break' within the 'while' loop,
 # modify your answer for Task 1a to terminate the 'while' loop when
-# number of visitors is 30.
+# number of visitors is 30visitors = 18
 
+while visitors < 30:
+    visitors = visitors + 1
+    print(visitors)
