@@ -61,3 +61,8 @@ while visitors < 30:
 
 #task 1c
 
+visitors = 18
+
+while visitors < 30:
+    visitors = visitors + 1
+    print(visitors)
