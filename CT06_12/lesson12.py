@@ -99,7 +99,7 @@
 # 1. Modify your code to remove the comma (",") that appears
 #    either at the start or end of your sentence
 
-order = ""
+order = "Nothing"
 
 while True:
     items = input("What do you want to buy?")
