@@ -102,4 +102,4 @@
 order = ""
 
 while True:
-    items
+    items = input("What d")
