@@ -104,5 +104,6 @@ order = ""
 while True:
     items = input("What do you want to buy?")
     order = order + items
+    print()
     if items == "end":
         break
