@@ -77,5 +77,5 @@
 # number of visitors is 30
 visitors = 0
 while True:
-    visitors = visitors + 1
-    print(visitors)
+    if visitors == 30:
+        break 
