@@ -90,6 +90,7 @@ for i in range(10):
     for i in range(4):
         t.forward(5)
         t.left(90)
+    t.penup()
     t.goto(x, y - 40)
 
 t.hideturtle()
