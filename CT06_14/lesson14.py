@@ -69,7 +69,8 @@ t.down()
 t.sety(-200)
 t.penup()
 t.goto(-300,0)
-t.seth(290)
-t.forward(600)
+t.down()
+
+
 window.mainloop()
 
