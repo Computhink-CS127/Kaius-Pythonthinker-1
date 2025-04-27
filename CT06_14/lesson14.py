@@ -60,5 +60,3 @@
 # t.fillcolor("white")
 # window.mainloop()
 
-
-import tu
