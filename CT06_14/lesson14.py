@@ -68,3 +68,5 @@ t.seth(90)
 t.down(400)
 t.penup()
 t.goto(0,200)
+t.seth(0)
+
