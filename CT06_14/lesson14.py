@@ -54,5 +54,5 @@
 
 num = 1
 while True:
-    print(i)
+    print(num)
     
