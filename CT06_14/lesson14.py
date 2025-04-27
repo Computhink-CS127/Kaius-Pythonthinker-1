@@ -61,7 +61,7 @@ import turtle
 # window.mainloop()
 
 window = turtle.Screen()
-window.setup(width=600,height=400)
+window.setup(width=600,height=600)
 t = turtle.Turtle()
 t.penup()
 t.goto(0,200)
