@@ -59,4 +59,4 @@ t.down()
 t.seth(0)
 t.forward(20)
 
-window.mainloop
+window.mainloop()
