@@ -57,6 +57,7 @@ window.setup(width=600,height=400)
 t = turtle.Turtle()
 t.down()
 t.seth(0)
-t.forward(200000000000)
+t.forward(100)
+
 
 window.mainloop()
