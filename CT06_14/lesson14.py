@@ -82,7 +82,7 @@ screen.setup(600, 600)
 t = turtle.Turtle()
 t.penup()
 
-for i_ in range(10):
+for i in range(10):
     x, y = random.randint(-280, 280), random.randint(-280, 280)
     t.goto(x, y)
     for i in range(4):
