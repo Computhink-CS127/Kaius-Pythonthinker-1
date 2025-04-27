@@ -57,5 +57,5 @@ window.setup(width=600,height=400)
 t = turtle.Turtle()
 t.down()
 t.shape("triangle")
-
+t.fillcolor("white")
 window.mainloop()
