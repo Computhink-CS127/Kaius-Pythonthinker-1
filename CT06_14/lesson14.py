@@ -50,8 +50,8 @@
 
 
 
-import turtle
-import random
+# import turtle
+# import random
 # window = turtle.Screen()
 # window.setup(width=600,height=400)
 # t = turtle.Turtle()
@@ -73,11 +73,11 @@ import random
 # t.setx(300)
 # window.mainloop()
 
-import turtle
-import random
+# import turtle
+# import random
 
-screen = turtle.Screen()
-screen.setup(600, 600)
+# screen = turtle.Screen()
+# screen.setup(600, 600)
 
 # t = turtle.Turtle()
 
