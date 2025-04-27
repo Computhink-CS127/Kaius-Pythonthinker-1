@@ -52,3 +52,5 @@
 
 
 import turtle
+
+window = turtle.screen
