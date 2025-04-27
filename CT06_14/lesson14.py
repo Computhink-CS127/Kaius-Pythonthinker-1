@@ -65,4 +65,5 @@ window.setup(width=600,height=400)
 t = turtle.Turtle()
 t.goto(300,400)
 t.seth(90)
+t.down(400)
 
