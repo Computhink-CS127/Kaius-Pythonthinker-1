@@ -66,7 +66,7 @@ t = turtle.Turtle()
 t.penup()
 t.goto(0,200)
 t.down()
-t.sety
+t.sety(-200)
 t.goto(0,200)
 t.seth(290)
 t.forward(600)
