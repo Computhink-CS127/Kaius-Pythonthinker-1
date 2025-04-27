@@ -56,6 +56,6 @@ window = turtle.Screen()
 window.setup(width=600,height=400)
 t = turtle.Turtle()
 t.down()
-t.shape(Triangle)
+t.shape("Triangle")
 
 window.mainloop()
