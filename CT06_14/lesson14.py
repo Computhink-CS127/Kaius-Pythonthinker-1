@@ -53,4 +53,4 @@
 
 import turtle
 
-window = turtle.screensize
+window = turtle.screen
