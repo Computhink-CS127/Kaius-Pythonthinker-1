@@ -66,4 +66,4 @@ t = turtle.Turtle()
 t.goto(300,400)
 t.seth(90)
 t.down(400)
-
+t.up
