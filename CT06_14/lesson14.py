@@ -79,20 +79,20 @@ import random
 screen = turtle.Screen()
 screen.setup(600, 600)
 
-t = turtle.Turtle()
+# t = turtle.Turtle()
 
 
-for i in range(10):
-    x, y = random.randint(-280, 280), random.randint(-280, 280)
-    t.penup()
-    t.goto(x, y)
-    t.pendown()
-    for i in range(4):
-        t.forward(5)
-        t.left(90)
-    t.penup()
-    t.goto(x, y - 40)
-    t.write(t.pos(),align="center")
+# for i in range(10):
+#     x, y = random.randint(-280, 280), random.randint(-280, 280)
+#     t.penup()
+#     t.goto(x, y)
+#     t.pendown()
+#     for i in range(4):
+#         t.forward(5)
+#         t.left(90)
+#     t.penup()
+#     t.goto(x, y - 40)
+#     t.write(t.pos(),align="center")
 
-t.hideturtle()
-turtle.done()
+# t.hideturtle()
+# turtle.done()
