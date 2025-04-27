@@ -72,3 +72,9 @@ import random
 # t.down()
 # t.setx(300)
 # window.mainloop()
+
+
+
+window = turtle.Screen()
+window.setup(width=600,height=600)
+t = turtle.Turtle()
