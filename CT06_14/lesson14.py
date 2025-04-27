@@ -70,7 +70,6 @@ t.sety(-200)
 t.penup()
 t.goto(-300,0)
 t.down()
-t.setx()
-
+t.setx(300)
 window.mainloop()
 
