@@ -50,6 +50,4 @@
 # window.mainloop()
 
 
-# Test revision:
 
-num = 1
