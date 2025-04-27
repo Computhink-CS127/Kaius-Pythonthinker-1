@@ -76,7 +76,20 @@ import random
 import turtle
 import random
 
-window = turtle.Screen()
-window.setup(width=600,height=600)
+screen = turtle.Screen()
+screen.setup(600, 600)
+
 t = turtle.Turtle()
-window.mainloop()
+t.speed(0)
+t.penup()
+
+for _ in range(10):
+    x, y = random.randint(-280, 280), random.randint(-280, 280)
+    t.goto(x, y)
+    for _ in range(4):
+        t.forward(5)
+        t.left(90)
+    t.goto(x, y - 40)
+
+t.hideturtle()
+turtle.done()
