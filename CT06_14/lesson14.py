@@ -53,3 +53,4 @@
 import turtle
 
 window = turtle.Screen()
+turtle = t
