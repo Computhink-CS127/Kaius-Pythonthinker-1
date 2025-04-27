@@ -67,4 +67,4 @@ t.goto(300,400)
 t.seth(90)
 t.down(400)
 t.penup()
-t.goto
+t.goto(0,200)
