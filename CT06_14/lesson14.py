@@ -80,7 +80,7 @@ screen = turtle.Screen()
 screen.setup(600, 600)
 
 t = turtle.Turtle()
-t.pendown()
+t.penup()
 
 for i in range(10):
     x, y = random.randint(-280, 280), random.randint(-280, 280)
