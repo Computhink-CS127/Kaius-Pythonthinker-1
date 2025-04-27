@@ -58,6 +58,7 @@ t = turtle.Turtle()
 t.down()
 t.seth(0)
 t.forward(100)
+
 t.left(360/3)
 
 window.mainloop()
