@@ -55,5 +55,5 @@ import turtle
 window = turtle.Screen()
 window.setup(width=600,height=400)
 t = turtle.Turtle()
-t.seth()
+t.seth(0)
 t.forward(20)
