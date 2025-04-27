@@ -92,6 +92,7 @@ for i in range(10):
         t.left(90)
     t.penup()
     t.goto(x, y - 40)
+    t.
 
 t.hideturtle()
 turtle.done()
