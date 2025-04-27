@@ -72,7 +72,3 @@ import random
 # t.down()
 # t.setx(300)
 # window.mainloop()
-
-
-
-window.mainloop()
