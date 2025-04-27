@@ -129,9 +129,83 @@
 # 2. Ensure your code has an 'else'
 
 # Observe that "Happy New Year!" is no longer printed
-num = 10
-while num > 0:
-    num = num -1
-    
 
-    
+
+
+# Task 5: Math Question
+# **Task 5a**:
+# Create a program to test the user on their math skills! The
+# program will continue generating new questions until the user
+# get the wrong answer.
+
+# 1. Using a 'while' loop, 
+# 2. Generate 2 random numbers between 1 and 10 (import 'random'
+#    and use 'random.randint()')
+# 3. Ask the user to add the 2 numbers together in the following
+#    format:
+#     "What is 3 + 5?"
+# 4. If the user gets the correct answer:
+#     Print "That's correct!
+# 5. Else:
+#     print "Wrong! Try again"
+#     End the 'while' loop
+
+# import random
+
+# a = random.randint(1,11)
+# b = random.randint(1,11)
+
+# while True:
+#     ans = a + b
+#     guess = int(input("what is " + str(a) + "+" + str(b) + "? "))
+#     if guess == ans:
+#         print("You did it!")
+#         break
+#     else:
+#         print("Try again.")
+
+
+# import random
+
+# user_num = int(input("Choose a number from 1 to 6."))
+
+# while True:
+#     num = random.randint(1,7)
+#     if num == user_num:
+#         print(num)
+#         break
+#     else:
+#         print(num)
+
+
+
+# Task 6: Dice Roll till 4
+# Using 'while' loop and the 'random.randint()' function from the
+# 'random' library, constantly print a random number between 1 and
+# 6 until the random number generated is 4.
+
+# 1. Import the 'random' library
+# 2. Create 'num' variable and assign it '0'
+# 3. While 'num' variable is not '4',
+#     a. Using 'random.randint()', assign 'num' variable a random
+#        number between 1 and 6.
+#     b. Print the random number generated.
+
+# **Bonus**
+# Some ideas to improve on the above program:
+# 1. Add a counter variable and announce the number of tries it
+#    took before rolling a '4'.
+# 2. Add the ability for the user to determine which number to roll
+#    until (instead of '4' all the time).
+# 3. Break out of the 'while' loop if counter variable reaches 10
+#    and print "You have won the jackpot!"
+
+
+
+
+groceries ={
+    "Apples"
+    "Bread"
+    "Carrots"
+    "Dates",
+}
