@@ -63,5 +63,6 @@
 window = turtle.Screen()
 window.setup(width=600,height=400)
 t = turtle.Turtle()
-t.goto(300,)
+t.goto(300,400)
+
 
