@@ -79,3 +79,4 @@ import random
 window = turtle.Screen()
 window.setup(width=600,height=600)
 t = turtle.Turtle()
+window.mainloop()
