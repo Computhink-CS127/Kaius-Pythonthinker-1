@@ -97,3 +97,27 @@ screen.setup(600, 600)
 # t.hideturtle()
 # turtle.done()
 
+import turtle
+screen = turtle.Screen()
+screen.setup(400, 400)
+t = turtle.Turtle()
+t.penup()
+t.goto(-200, -200)
+t.pendown()
+
+while True:
+    while t.xcor() < 200:
+        t.forward(1)
+    t.left(90)
+
+    while t.ycor() < 200:
+        t.forward(1)
+    t.left(90)
+
+    while t.xcor() > -200:
+        t.forward(1)
+    t.left(90)
+
+    while t.ycor() > -200:
+        t.forward(1)
+    t.left(90)
