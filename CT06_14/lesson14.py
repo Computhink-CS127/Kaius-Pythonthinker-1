@@ -80,7 +80,6 @@ screen = turtle.Screen()
 screen.setup(600, 600)
 
 t = turtle.Turtle()
-t.speed(0)
 t.penup()
 
 for _ in range(10):
