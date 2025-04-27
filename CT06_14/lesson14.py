@@ -84,6 +84,7 @@ t = turtle.Turtle()
 
 for i in range(10):
     x, y = random.randint(-280, 280), random.randint(-280, 280)
+    t.penup()
     t.goto(x, y)
     for i in range(4):
         t.forward(5)
