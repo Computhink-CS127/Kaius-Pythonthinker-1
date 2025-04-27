@@ -54,7 +54,7 @@ import turtle
 
 window = turtle.Screen()
 window.setup(width=600,height=400)
-
+pen
 t = turtle.Turtle()
 t.seth(0)
 t.forward(20)
