@@ -33,5 +33,5 @@ while True:
         break
     else:
         print("Access Denied")
-        input("Guess the password!")
+        UserGuess = input("Guess the password!")
         
