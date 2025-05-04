@@ -26,4 +26,5 @@
 # Write your code here
 password = "superpass123"
 
-UserGuess = input("")
+UserGuess = input("Guess the password!")
+
