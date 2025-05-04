@@ -24,3 +24,4 @@
 # If the password does not match, print “Access Denied”
 
 # Write your code here
+password = ""
