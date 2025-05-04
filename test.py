@@ -30,5 +30,6 @@ UserGuess = input("Guess the password! ")
 while True:
     if UserGuess == password:
         print("Access Granted")
-else:
-    print("Access Denied")
+    else:
+        print("Access Denied")
+        break
