@@ -9,7 +9,7 @@
 # Write your code here
 while i != 200:
     for i in range(10,201,10):
-        print
+        print(i)
 
 
 
