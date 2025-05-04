@@ -121,3 +121,40 @@ while True:
     while t.ycor() > -200:
         t.forward(1)
     t.left(90)
+
+# Task 6
+# import turtle
+
+# window = turtle.Screen()
+
+# window.setup(width=400, height=400)
+
+# t = turtle.Turtle()
+# t.shape("turtle")
+# t.fillcolor("green")
+
+# x_limit = 180
+# y_limit = 180
+
+# t.penup()
+
+# t.goto(-x_limit, -y_limit) # Go to bottom left
+
+# t.pendown()
+# while True:
+#     while t.xcor() < x_limit: # draw horizontal line towards the right
+#         t.forward(1)
+#     t.left(90)
+#     while t.ycor() < y_limit: # draw vertical line upwards
+#         t.forward(1)
+#     t.left(90)
+#     while t.xcor() > -x_limit: # draw horizontal line towards the left
+#         t.forward(1)
+#     t.left(90)
+#     while t.ycor() > -y_limit: # draw vertical line downwards
+#         t.forward(1)
+#     t.left(90)
+
+#     break
+    
+# window.mainloop()
