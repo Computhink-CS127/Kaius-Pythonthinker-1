@@ -7,7 +7,8 @@
 # Example: 10, 20, 30 ..... 180, 190, 200.
 # Note that the numbers do not need to be printed in one line.
 # Write your code here
-
+for i in range(10,201,10):
+    print(i)
 
 
 
