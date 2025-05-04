@@ -27,7 +27,8 @@
 password = "superpass123"
 
 UserGuess = input("Guess the password! ")
-if UserGuess == password:
-    print("Access Granted")
+while True:
+    if UserGuess == password:
+        print("Access Granted")
 else:
     print("Access Denied")
