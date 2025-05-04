@@ -7,6 +7,7 @@
 # Example: 10, 20, 30 ..... 180, 190, 200.
 # Note that the numbers do not need to be printed in one line.
 # Write your code here
+num = 0
 while num < 200:
     num = num + 10
     print(num)
