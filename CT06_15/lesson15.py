@@ -96,3 +96,8 @@
 #    draw the pattern shown on the screen.
 # 5. You will have to reposition your turtle before calling the
 #    "draw_square" function each time.
+def greet(name):
+    return "hello there " + name
+
+name = input("What is your name?")
+greet()
