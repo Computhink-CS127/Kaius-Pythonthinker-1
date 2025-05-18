@@ -12,4 +12,5 @@ def BlueBall():
 screenWidth = 300
 screenHeight = 500
 window = setup(screenWidth,screenHeight)
+ball
 window.mainloop()
