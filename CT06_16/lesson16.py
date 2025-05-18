@@ -12,11 +12,12 @@ def BlueBall():
 def MoveBall(ball,dx,dy):
     ball.setx(ball.xcor() + dx)
     ball.sety(ball.ycor() + dy)
-while True:
-    MoveBall(ball,dx,dy)
+
 
 screenWidth = 300
 screenHeight = 500
 window = setup(screenWidth,screenHeight)
 ball = BlueBall()
+while True:
+    MoveBall(ball,dx,dy)
 window.mainloop()
