@@ -9,6 +9,10 @@ def BlueBall():
     ball.color("blue")
     ball.penup()
     return ball
+def MoveBall(ball,dx,dy):
+    ball.setx
+
+
 screenWidth = 300
 screenHeight = 500
 window = setup(screenWidth,screenHeight)
