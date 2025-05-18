@@ -15,6 +15,10 @@ def MoveBall(ball,dx,dy):
 def CheckX(ball,screenWidth):
     if ball.xcor() > (screenwidth/2) or ball.xcor() < (-screenWidth/2):
         return True
+def CheckY(ball,screenHeight):
+    if ball.ycor() > (screenHeight/2) or ball.ycor() < (-screenHeight/2):
+        return True
+
 
 screenWidth = 300
 screenHeight = 500
@@ -26,4 +30,6 @@ while True:
     MoveBall(ball,dx,dy)
     if CheckX(ball,screenWidth):
         dx *= -1
+    elif CheckY(ball,screenHeight):
+        
 window.mainloop()
