@@ -100,4 +100,4 @@ def greet(name):
     return "hello there " + name
 
 name = input("What is your name?")
-print(greet())
+print(greet(name))
