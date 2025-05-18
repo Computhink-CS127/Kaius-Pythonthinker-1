@@ -30,6 +30,6 @@ while True:
     MoveBall(ball,dx,dy)
     if CheckX(ball,screenWidth-5):
         dx *= -1
-    elif CheckY(ball,screenHeight):
+    elif CheckY(ball,screenHeight-5):
         dy *= -1
 window.mainloop()
