@@ -1,6 +1,6 @@
 import turtle
 def setup(screenWidth,screenHeight):
-    window = turtle.Screen
+    window = turtle.Screen()
     window.setup(width = screenWidth,height = screenHeight)
     return window
 
