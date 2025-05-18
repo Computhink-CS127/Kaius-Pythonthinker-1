@@ -28,7 +28,7 @@ dx = 2
 dy = 2
 while True:
     MoveBall(ball,dx,dy)
-    if CheckX(ball,screenWidth):
+    if CheckX(ball,screenWidth-5):
         dx *= -1
     elif CheckY(ball,screenHeight):
         dy *= -1
