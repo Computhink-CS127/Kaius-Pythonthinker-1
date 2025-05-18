@@ -1,2 +1,3 @@
 import turtle
 
+window = tur
