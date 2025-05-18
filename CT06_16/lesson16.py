@@ -31,5 +31,5 @@ while True:
     if CheckX(ball,screenWidth):
         dx *= -1
     elif CheckY(ball,screenHeight):
-        
+        dy *= -1
 window.mainloop()
