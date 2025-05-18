@@ -18,6 +18,7 @@ screenWidth = 300
 screenHeight = 500
 window = setup(screenWidth,screenHeight)
 ball = BlueBall()
+dx = 2
 while True:
     MoveBall(ball,dx,dy)
 window.mainloop()
