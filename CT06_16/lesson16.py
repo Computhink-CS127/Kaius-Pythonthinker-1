@@ -11,6 +11,7 @@ def BlueBall():
     return ball
 def MoveBall(ball,dx,dy):
     ball.setx(ball.xcor() +dx)
+    ball.sety()
 
 
 screenWidth = 300
