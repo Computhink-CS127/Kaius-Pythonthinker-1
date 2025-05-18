@@ -24,4 +24,6 @@ dx = 2
 dy = 2
 while True:
     MoveBall(ball,dx,dy)
+    if CheckX(ball,screenWidth):
+        dx
 window.mainloop()
