@@ -8,6 +8,7 @@ def BlueBall():
     ball.shape("circle")
     ball.color("blue")
     ball.penup()
+    return ball
 screenWidth = 300
 screenHeight = 500
 window = setup(screenWidth,screenHeight)
