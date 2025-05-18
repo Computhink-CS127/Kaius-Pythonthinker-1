@@ -96,20 +96,3 @@
 #    draw the pattern shown on the screen.
 # 5. You will have to reposition your turtle before calling the
 #    "draw_square" function each time.
-import turtle
-def draw_square():
-    for i in range(4):
-        turtle.forward(30)
-        turtle.right(90)
-
-window = turtle.Screen()
-window.setup(width = 600,height = 400)
-turtle = turtle.Turtle()
-turtle.goto(0,0)
-turtle.seth(90)
-for i in range(6):
-    draw_square()
-    turtle.right(180)
-    turtle.forward(30)
-    turtle.left(90)
-window.mainloop()
