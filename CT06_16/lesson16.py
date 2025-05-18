@@ -6,7 +6,8 @@ def setup(screenWidth,screenHeight):
 def BlueBall():
     ball = turtle.Turtle
     ball.shape("circle")
-    ball.color()
+    ball.color("blue")
+    ball.penup()
 screenWidth = 300
 screenHeight = 500
 window = setup(screenWidth,screenHeight)
