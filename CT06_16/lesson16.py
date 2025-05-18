@@ -4,6 +4,7 @@ def setup(screenWidth,screenHeight):
     window.setup(width = screenWidth,height = screenHeight)
     return window
 
-
-    t = turtle.Turtle
-    window.mainloop()
+screenWidth = 300
+screenHeight = 500
+t = turtle.Turtle
+window.mainloop()
